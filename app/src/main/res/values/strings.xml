@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CALMA</string>
+    <string name="app_subtitle">Autocuidado emocional y regulación</string>
+    <string name="disclaimer_footer">Nota: Este espacio es de apoyo psicoeducativo y no sustituye la terapia psicológica profesional.</string>
+    <string name="tab_assistant">CALMA</string>
+    <string name="tab_regulation">Ejercicios</string>
+    <string name="tab_reframe">Reframing TCC</string>
+    <string name="tab_journal">Check-in</string>
+    <string name="action_send">Enviar</string>
+    <string name="action_sos">Ayuda Inmediata</string>
+    <string name="action_clear_chat">Limpiar conversación</string>
+    <string name="prompt_placeholder">Escribe cómo te sientes o qué ocurre...</string>
+    <string name="breathing_title">Respiración Consciente</string>
+    <string name="grounding_title">Grounding 5-4-3-2-1</string>
+    <string name="pmr_title">Pausa Corporal</string>
+    <string name="crisis_alert_title">Líneas de Ayuda y Emergencia</string>
+</resources>

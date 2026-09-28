@@ -1,0 +1,6 @@
+{
+  "name": "CALMA",
+  "description": "Asistente digital de autocuidado emocional, regulación de ansiedad y TCC",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
